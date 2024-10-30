@@ -1,0 +1,31 @@
+.table {
+    display: table;
+    font-size: x-small;
+   
+}
+
+.row-header {
+    display: table-row;
+    font-weight: bold;
+    text-align: center;
+   
+}
+
+.row {
+    display: table-row;
+    text-align: center;
+    
+}
+
+.cell {
+    display: table-cell;
+    padding: 2px;
+    vertical-align: middle;
+    
+}
+
+.cell img {
+    width: 250px;
+    height: auto;
+  
+}
