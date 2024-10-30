@@ -29,3 +29,49 @@
     height: auto;
   
 }
+
+label {
+    font-size: 0.6em; 
+    margin-right: 
+}
+
+input[type="email"] {
+    width: 110px; 
+    height: 10px; 
+    font-size: 0.9em;
+}
+
+input[type="text"],
+textarea {
+    width: 100px; 
+    height: 10px; 
+    font-size: 0.9em; 
+}
+
+textarea {
+    height: 25px;
+    width: 150px; 
+}
+
+input::placeholder {
+    font-size: 0.6em; 
+}
+
+.footer {
+    font-size: 8px;
+    padding-top: 5px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+button {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px; 
+    height: 12px; 
+    text-align: center;
+    font-size: 8px; 
+}
